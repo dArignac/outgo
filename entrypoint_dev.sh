@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
-cd /app
+cd /var/www
 npm install
-./node_modules/nodemon/bin/nodemon.js --legacy-watch index.js
+npm start
