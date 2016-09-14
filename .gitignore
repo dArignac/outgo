@@ -14,5 +14,6 @@ _temp
 !karma*.js
 !protractor*.js
 !systemjs.config.js
+!systemjs.config.extras.js
 !typings/typings.d.ts
 !wallaby.js
