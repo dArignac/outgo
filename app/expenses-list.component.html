@@ -1,0 +1,10 @@
+<h2>Expenses listing</h2>
+<ul>
+  <li *ngFor="let expense of expenses">
+    {{ expense.id }}
+    {{ expense.date }}
+    {{ expense.value }}
+    {{ expense.location }}
+    {{ expense.category }}
+  </li>
+</ul>

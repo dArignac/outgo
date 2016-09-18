@@ -2,7 +2,7 @@ import { Component } from '@angular/core';
 
 @Component({
   selector: 'og-app',
-  template: 'TODO: fancy overview'
+  templateUrl: 'app/app.component.html',
 })
 
 export class AppComponent { }
